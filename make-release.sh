@@ -12,7 +12,7 @@
 
 set -e
 REPO=git@github.com:eclipse-che/che-server
-MAIN_BRANCH="main"
+MAIN_BRANCH="master"
 TMP=""
 ISSUE_TEMPLATE_FILE=".github/ISSUE_TEMPLATE/bug_report.yml"
 
